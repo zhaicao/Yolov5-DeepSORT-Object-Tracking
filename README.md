@@ -9,7 +9,7 @@ This is a PySide6 GUI program that is based on YOLOv5 and DeepSORT for traffic o
 * Outputs records of speeding
 
 ## Installation
-1. Python 3.10 or later with all requirements.txt dependencies installed, including torch>=2.1.2 To install run:
+1. Python 3.10 or later with all requirements.txt dependencies installed, including torch>=2.1.2. To install run:
 ```bash
 pip install -r requirements.txt
 ```
@@ -28,7 +28,7 @@ python main.py
 
 # Result
 #### Vehicles Detection, Tracking and Counting 
-![](./imgs/demo.png)
+![](imgs/demo1.png)
 
 # References
 https://github.com/ultralytics/yolov5
